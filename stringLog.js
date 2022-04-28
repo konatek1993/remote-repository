@@ -1,3 +1,3 @@
 const stringLog = (txt) => {
-    return console.log('txt')
+    return console.log(txt)
 }
